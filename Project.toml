@@ -1,0 +1,13 @@
+name = "COSMA_jll"
+uuid = "0efae8bf-39e6-5d65-b05d-c8947f4cee2a"
+version = "2.2.0+0"
+
+[deps]
+MPICH_jll = "7cb0a576-ebde-5e09-9194-50597f1243b4"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+OpenBLAS_jll = "4536629a-c528-5b80-bd46-f80d51c5b363"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
