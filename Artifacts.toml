@@ -1,657 +1,657 @@
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b57dfdaefe6528092107af863bf92b843343dd8"
+git-tree-sha1 = "3733b6fd1dea7018278228039c069ce02e781fe2"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "e8a122ef70d33b106c2a247f7f60d64a0094cdd862ff8e368f2280942c10fc47"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "3f1b88cf1bde9274fdc34a245aee1e7baceadbeb29d23c1c913619fdb0bdca9a"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4362af0852d8ca543e081778abc5e52e938d0c46"
+git-tree-sha1 = "1517413d1589242b7d7cd91f04aa5e2d8d09fa4d"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "4deaa476f19b55a287e1ebe8133f92897ab288ee54ab5d30172d0b1d2e8035c6"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "b40c88e5eff0927576648c60ec3edcae1f306643dbccd1a69c338b9746ff2b0e"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7d79c925655f8026719e802d6692753e82647b72"
+git-tree-sha1 = "053185b5310d2d56fc78318aa59995d24446c023"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "1f988381ad8f7ed56c6aa985db5eef41fac84ae82378f7258aff482ff08d593d"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "59b63dab2fbdb5dd5f83c210f21cc54ee5e834ed7d65865199af326b9d010e0e"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6c3da364f6624e06f331f0345f581ea782ef67ba"
+git-tree-sha1 = "ccafcc253e09648a2e010d81c39c621c49550cf3"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "bf594439725f323335dbdc1791d486695c40be0a0b7ebcdc471b4f4467bd8eae"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "53b81f7267f5a060881ce56af77a9c9dfc251c29ae69b2482a758ac5b0da4b8f"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1122bbeb62fc5ee858c2364209ac909235671c4f"
+git-tree-sha1 = "48e3820d18ca6056a203234bbb7032465654d5a4"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "350466d510cec8111f7ceed8064f13dcb0e907ec39827b2c28d4815511b06598"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "32bb99d6b8d26980c36102d5ec0ceebd410dc376636476c09af202a1897bb31a"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e7181ac33d3d83e260095128f30f9d6e76a25be"
+git-tree-sha1 = "e2a2ae52d9c294c08d3b90ab0ee3e6971a915845"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "d1b314f2fbd4d6c70d0404412994d5c8cbf91e9f4947f55dd52ade41dbfa6788"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "ca453c059f4721c1f547793cb04bc564c05824e10f3e7a97013aff6487d70b82"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ad78c2f56f040a5e2fc5ac214c0b7eb84e0b90a"
+git-tree-sha1 = "05e0e007465ac15bcf655ceb591550fc23dcb2d6"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "d396e109c47a0b775b30ba38b0bdd940af8c9aacd0678ade7757c1a92b18ede3"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "8961014c1cf3cfe867adb5b088769a587b86c02bbbc6e035e0459da6ff5beb15"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "edee3a43c4ee7dec04a8e6715ac17a55c9efcec8"
+git-tree-sha1 = "2b10a5f30dc4c89b7efd0803229333fb241e8301"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "e06d06afb4971556d584dc0dcd9bdc9fd3c930e013fe6633bf1c8432a8a230f2"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "21ea0800701bfc976b4436c7c99db0c09e76c122bc8776314734938e696e0480"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3d4a0b317c253042e9dae77b888188f6e2b8a7d5"
+git-tree-sha1 = "4efe06b89ba5691b59ff218559b5aaa25636c73f"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "7fc9e45e5805ff58f6be6179ed11d9c556e8c41522d5f10207d5a02b317c9010"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "59d5506107917d91d933b849fca239d221b21375901586b48efeb072f6e4734e"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7142b72a3a0252cc9bfab1881690f7f50f936921"
+git-tree-sha1 = "2908d8575cfd86d1838f85674ab754a3c1370f76"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "1fa7c044f1f0c48d05608db67194a5adb03830519ccea45b4f7567a6b3ea447b"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "b40369196889c8cedae31da894bbce4fa8b6562b1631d559dbd1a3638fd8d53a"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.aarch64-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6aabe220fed3a36eab31d199be8f1a82307ee833"
+git-tree-sha1 = "a57d29840ecf2d21f939ca7759a79c6964ea6794"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "7639e760bf14d1811abb47d0ea0e2093f4d0b0942d74ecbf1ae6fa26f234f19f"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "982c489c7d6cb43f8d8cdb50c16eae6f24dd0ffda5f8511b7f41dad82dd6ac53"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv6l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b139a6e90c8762c2b8a8e816008432588927b54a"
+git-tree-sha1 = "7ae05d7e4deb73c1e7e441a9d29c1ffc033d217e"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "ce9e44dca316bdce880e3f105028b115fe6748b2e022d7ba4f5fb32f042a47c8"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "245f2c1a0f3dbed5706870330332ee561b1307d837d3426ea28afb7f886950a8"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv6l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a25e83bb691eec150cfbd845798b34485474a13"
+git-tree-sha1 = "57f6cd060e77e48deb5dc25ed161e84a9891879d"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "6f1cd98503ffed412cb9e7a714a214e2ac14c24aa2211c5407df7ef3e120d456"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "5d5fcbcc50e87aed146c681f4247cd030e590ff0563c7ccc66bdc72002340a60"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv6l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "967557e43253c4e8931b513735d2ba8de5d189a3"
+git-tree-sha1 = "ca22b4383d962a5837cf16a5e73d732db2cfd113"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "73573325e5cc4a8d748a8be79c4dc0cc01e6353c013fde883e419abdf4f60bbc"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "b5f7e31dfc5ef96fee3ef90c4477fbd19b77b90ded0df67507120fe71e559ded"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv6l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "baeb99406252731595040f3d5aceceb38cea113f"
+git-tree-sha1 = "ad998d93921b56f54670062fa869a10ff3ba9039"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "ff0ee621679ae05c5d2a21ddd96c29b4ba36fda570fa0a1a3df14a9a4da5d31a"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "6e1c6e0bcb6ffc8a8cee95195f8c9f1af392fb92ae7e7a6909c8f79b69122e6a"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv6l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6160c5f7cbec7ac5dbfca30aea53602ee37c74f7"
+git-tree-sha1 = "e4416466efcdcb1a02638a52dfc0d8333ded8e39"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "43c59bcbe9f39fcbeab727b9db920e671a1cc510c9d32dfbc749e9f43e1162d7"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "a06484cb9be8a588859a9e64d5f04ce82e63acf7f512c628f2707d6b0a5e75df"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv6l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cae7855890305b108df28ffe7a97c9c8fd56716b"
+git-tree-sha1 = "558f80eb6abfcf0e291d6d9aff547687c625f80c"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "9427c8d1226a857161120a21916a32a926f671cc38c9a2785c2941ff2d56ef4b"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "0bfb68b7df7b96fa3ee9485916bd2330fc55ceb6a803ffcba8b8abf8be927088"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv6l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5302af351dd227c4cbfa85a3c3fb31cfcd028d09"
+git-tree-sha1 = "0f81af8395326b558d38fa3bea97e148f6657c54"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "86cc44d3487cef3dac7f6df8dcd2b3133cb79a86ff0d3e5d7899ec42355e3da0"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "4d8c4b3055d6581be17eb91be6ee3f52b5a80457fb4bf0b7c1d3ae50ec179aa2"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv6l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "89d0cb176d5b59ffe4fb30b48c91b951c5826738"
+git-tree-sha1 = "52eaea61ab4cb8b73a65a4b5c83225281ad5a76a"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "ef5a1a993d056e2fd33ce0268a598b68b0530e74a7cd9d89988a8615d1036d51"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "b620c899f1283bfb831244275db8f2e028828e4d9c2817fefde45458b7707ace"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-gnueabihf-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cbbbdc9164ef8331224353444c4b8fe7e48d2b5a"
+git-tree-sha1 = "c86a34f973f255cfde8787a1606ab955750b28c2"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "0121da0317f0b472cef8edde65503cb5b96f38b024fd176b104293907fd16fc9"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "8687e5180b42ed5dbf4dd18d68e9f094a59588f33962b59f8333849d90d39964"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-gnueabihf-cxx03-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2c24bd9e9cf3fb8ac8764b89e0f383068b0b54ef"
+git-tree-sha1 = "b0402d6dad8aa0368fbb4173854c93ca04ebbd18"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "0fac2b14e902a9bf482f7259dbb6cdc4658713cf86a38d56f89c08802d6835e8"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "6b6a93b7b17e1da71e4c3faf53bc06b261fbddbe8887dc46349c110ba349583f"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-gnueabihf-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "179c5eccc50900da84b40576f37722575472fdf0"
+git-tree-sha1 = "d21224434a2547b46ea8698ade58f7ab012d525a"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "503d4534fec38fa3a85c9fab4b4101aa204b54e09fa7801637ab751ebac6dcd3"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "65b0499b1d10574fdcc24a53bcbb87c822140862de2f31e205b7f17c2910bcbd"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-gnueabihf-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5556a0823c6b86340471ecc494e845b55db369ea"
+git-tree-sha1 = "05c27a28a0b3fcfc3f975c4d4ca0bc25d440299c"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "e952e085ea0ad6bcad5e9587bc095d2840e36d8ec1f51efefba70ba2a19c574a"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "15048367e88a8952aacf0ce1be0d76ef2013dd53522eed7682e876957e64603b"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-gnueabihf-cxx11-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9703a86d1ce35f50a7213c111d7a1eef51f3ec8f"
+git-tree-sha1 = "3e23d3e8b6d286aac8c30547e1449c5b72be08f7"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "91232be1cc0b540159a88295b634d649897a7ecd440275b8cd94b400af4dcbbf"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "739186d2eef7f049ff2c8bee6bc169773894131af06f643ddc78834acb8553c4"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-gnueabihf-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7c26d9489eb6a5794ba1f62c76a3b539ed90a50f"
+git-tree-sha1 = "1bc5cdcd71e9f894d07ff4c95b1925fbf1d81e32"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "60898b53c102bd4481407756fdcf075d0c5bf351a949005ed08f0802cc36dac7"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
+    sha256 = "0d48ef5585f1ebad85c8add0b041cb08e900ca314ebe3bea61d212fe5c046abf"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-musleabihf-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "15a2c3ea3ddfd5d396db61257ff76798cec3e2d4"
+git-tree-sha1 = "1fd679a6c43e5c2f8a5c060e0a9419bd5ed17097"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "b83f202737ede8d90a33a7a45734ed76c88044285382978507082bbc6d60c242"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "06749ee8f7b38992fb624957b2703cc7f06fc8cefb258b784953b2d65f349171"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-musleabihf-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eae483fb1e2701e46bc339828ce049d1b62d73f6"
+git-tree-sha1 = "f92184560cced7e759ffb29f642e90a74e7a918e"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "6a01c658061332b73a0a769daa516e2cabe54cca00f883032769df3dbb8746a9"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
+    sha256 = "63748ae631a9fd840241a7080b18d7a5ccffcf2b37a30941bb35482382b44fd2"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-musleabihf-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fd8829c70539c6fcd3542a16e731f87acac9f2db"
+git-tree-sha1 = "d4070b1e17363075e6e10f3b6b9666e50fab06f1"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "9281d2e2f4cec0f5d5420aa093592322dee10bf6cc3d34935e21e7be8e351abc"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "0fdbafec529923c40c1f31335c2cabc4fd0efc8cd3095ea99a4d319d960730f7"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.armv7l-linux-musleabihf-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3950627add0e525589a26aac79b932a188a32926"
+git-tree-sha1 = "941dae5b72d2f6c7a8024c9b84d89281b627c006"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "97607ef8eac533afd63fd1de21fbb9fe58c9af2de263127164a08011f1f3d8c0"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "691774a6fb92d129988cb9cfbca8f8160d7322cdb668b256ed581f49df387ecc"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3143bb08a59753b1f96a285e11652d9e0140e58b"
+git-tree-sha1 = "c60e2a5507483cac8c32e7435626faa0e1cd6739"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "d98d11fd4df92a359decfced9dfa15319405d83843db5f920a5710dfd4c2a556"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "91e3de814ce13735bd00668d8bcfb4babc0906e6c9881c640a8d4892ec6473c9"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b73e52f9895af7003a77d74b2482b2c64aeacfa3"
+git-tree-sha1 = "77a1db6a8da0f297586ebbe8bea8aa2fdda2ad4e"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "a218c54c7696534ca3b355386122f280ba10f68fbef89ab9fbb5363c8e19a94f"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "9202c61c0889a9ec27de2bb2dd6ce9c4e9b2a2ebf822f4fbdacf532bec1b1221"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "473f50e6cd740d6aea17c4eafe2965cb634bc729"
+git-tree-sha1 = "4902eb651008571285a5b893b559134f3a8324c3"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "ef5daec7a7c0ab44b7f482b193e5f9475f1faf0629eb60f0e90de827b66ca064"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "a8a328d7730c691988cfad62a6233c7dbceebe138bea1021b6c189aeb318b7ba"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc13bdfe08e382758ce9b7f7e57beba2fe54d7f2"
+git-tree-sha1 = "e414acc35dc84183e3bc0e760207f0c187452233"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "0df64688519d35082333b4917594d691768812ce790123128024d4d576296e40"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "e21dc5f7a0be4906137be1088a74cf7385034ffb0fb433f5867adf9c0c631e36"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e22f626dce7712079d45721f0f1473a15b770b67"
+git-tree-sha1 = "4b2b98d21165d1fd7ffac27b292f361c7c7a578d"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "5010b110d9001508f336ede3be792f15d2a08df51bea7f5e5d180cf2c9bccfaf"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "12409529a73495b1f7c3920a3afa9dbeac4c57e762e48cc6637dbdaced80e4d7"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6b6754c6d13eaa684ff3efe43139546869785455"
+git-tree-sha1 = "0101c15246a40e41a4b33ecffd0496c5d2a3ae8c"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "515c187dac0dcf45eaa997f9ea2a3a456a76ec07f36ff91a7f8b39a5ff8ccd92"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "870a9d2ee0096af568fa9d267dee62b6b607a87186d614a8239113553e6a440f"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d473e6ed4377fd87ca14e0e8addd2dc622f7bd93"
+git-tree-sha1 = "76c78d99d77ace76666f27fbc892321f6d8e3192"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "3a6ad45f5040a1a2438c0940b321aabc762fd37ccc9aae54a9d869b23fd9a305"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "835b7c30cbd40927fd2d022bac1f4adbcffc6cac53c3ef94f18e385e68feeb4b"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "48512cc87bc68b9e0522e767cba009c73b58fd54"
+git-tree-sha1 = "7d63d6095daeac6f5a1627e0d76c026803d9b9a7"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "638bca6c422286021d4ab2b3975800d878e0516a3f9ef58d34f9425e1b60467d"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "f5d69b258c250ca9c4b4edfb1d2d106fad22845d9d7c4ffab749c00a6e42e5f7"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6547a03eab20d960249090822563347b6cefb93e"
+git-tree-sha1 = "02d26e5cefba2e8c61a6ec1f652b9c3492d166a0"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "1644218ce7eb9bb35cc3372dd7693b263edbf14d4fbb43c313c1aa5682662df2"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "e0ef6f5a846d931ec3be4d96ed582d5fb6d74763c3bc24817364f4aba267b898"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.i686-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b8ada1dec12fd30951501f92da00cc009311383c"
+git-tree-sha1 = "9fb46eb83fd0e68bb902f2e14111245ea5da9932"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "a491be7cc097bfa4f971a77a9375c81285d3f8a611d7a8792470a7f22eca5574"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "ccfbfd41aefd033c553d653b40b3e62792169d7b92e17e589d940fa9ee1099ed"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.powerpc64le-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "32063beca83c58327507addd5499216611b6ec03"
+git-tree-sha1 = "f499b7d2feca28bcc97e7f6d9a892ffb951d2979"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "661eddcaac4a644ea0b0671abca7d8d82ad77758185708cdc1455ef5576d650e"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "ba97acbaef201b3d71e94492d28442e9b1c789bdb04a54c2f97e2919bbb2c3eb"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.powerpc64le-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "98a6d081a8a9355f9a36ede12632a8549c088fc2"
+git-tree-sha1 = "2c7bf978f1efab321385ce59dc49ab799e8aa835"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "7c4e565ee88df62730d55416a41320b6e6159f8a77ccdeeb38061ad7ecdac5ee"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "6fa32f73eb53c274dca11f6fef2d9cab8c3e3e081d27e3c00ecd1e6cef78da89"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.powerpc64le-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4fc231f70d3141a70e20e31ccf628448610afaa8"
+git-tree-sha1 = "60e5a787c00b580fccafbb1f7d5bdba676a95575"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "a37eb2de211217fd85cda266a84e3b2dc87ed9bc7fe0433e09c8b887bf853cb0"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "7db59596d996c9df4722b5452dd92fa240478a064da3a874ae3200f9ddb3746d"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.powerpc64le-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "49b20b9d1fc6bbc9028fa55b0e7f8539c847a7a6"
+git-tree-sha1 = "6fff43770728a237aba0d8be96c00cd39976c07b"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "0bf7e9d2a0a8ab1755c2d14bfe10aaa55f66bbd9b788af8d8c89dc1ca3cd8002"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "289d8466983a909b4f67c17cce224c3c123419bb6720cea0623525d3b166c409"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.powerpc64le-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2910c8bf2092c1c38de7fa32dcd4187c14bc56df"
+git-tree-sha1 = "3ad97fa2b644b35bac0411de46e50c6bf36f2b43"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "4fc9d68ce16b9b0a47c9c5df6fed9707d28020c0311ab86a02dbdebd2d0370b9"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "cfea12efcadf1e05c571df03fba9d79fc263088825464a5d32d3d9edcb7f6c70"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.powerpc64le-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "x86_64"
-git-tree-sha1 = "fd447cddbd810b4ff81aa692e5f413a9db00c010"
+git-tree-sha1 = "0ec1a2cd0a1f86ecd74515639565002ab85dd0e9"
 mpi = "mpich"
 os = "macos"
 
     [[COSMA.download]]
-    sha256 = "ca3aa53c6bfbd4f25e48d6b024fd7f30546669a1a1357b864e3ad6390aadfc46"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-apple-darwin-mpi+mpich.tar.gz"
+    sha256 = "e60e6550254ebe8728e995effc14375b6732777837e697f661d2ecc5898dc888"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-apple-darwin-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "x86_64"
-git-tree-sha1 = "2267c817f3e772f2f5966e3845a806e7f87042f7"
+git-tree-sha1 = "484b56d781761446baf5a60a140b7f44c7e845f9"
 mpi = "mpitrampoline"
 os = "macos"
 
     [[COSMA.download]]
-    sha256 = "cc08a0af99f9e29902628e8c9f13eb7aa25c0fdde38ab8d5114c9e8807960a34"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+    sha256 = "715fb41a6e0ed613e8a6a4d1217f5c8ab0ca49b5f90caccacb5fad6971f782d8"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "x86_64"
-git-tree-sha1 = "cdc1458ad4b09d4de04acadb43b104bbd5bda0da"
+git-tree-sha1 = "7ee702d144f0ae7ddd6a47cbd5b1d31cd8dab8bf"
 mpi = "openmpi"
 os = "macos"
 
     [[COSMA.download]]
-    sha256 = "810e1c4861f233d682888484f7fc857711ca655e92433ad38cccf22278d32727"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+    sha256 = "2c3679dafce1b59f52397ee5bed4009bcc3335bb498af5cce803e16cfc93a546"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-apple-darwin-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "98ad0b1c43bc8f74e4771e6ffe7af6e8b300fbff"
+git-tree-sha1 = "936f0287b46c6e8a5194a83a3b1ae8e026521e32"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "327575875c97f8457b051971bc74f8480523a14d1837710d210549502e55c800"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
+    sha256 = "d0ebd6752623700f39ef1c6654dab579f91ab26be2a5c2c42bec37917e0286f2"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-gnu-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5287f82482d699ee839fec999a281cdacb1cf5b5"
+git-tree-sha1 = "6bc3f310f641819401ad90e9ef9d9009dd07cfdf"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "f075f52d811904ebd53868a2b8bc86909c7985d94e86b1dff6bd6794f1aed7b3"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
+    sha256 = "407ede36e8ef06847a8d34f09f35a9d00af74e82c130cbf87af879aa932dd348"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-gnu-cxx03-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0915a233d07d23d7cda33fe5490f9a2c8728e576"
+git-tree-sha1 = "6b8f56b74f83aeba913b9dc932bc9eacf8e19d71"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "99db9fb11914614d2ecf4d27cb27e40ceffd2d19fc58c611a062b09e1fdcf1e0"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "4fa4ffdce1ddc0d11a2e76d84cd00f67df32b5744ba7d74762d8542fc4df9256"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-gnu-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1a72d9c91eb077e13e333c6bd30a4589caf2da98"
+git-tree-sha1 = "3e33cceee0ea469e00482913fb4f15a67103d1d4"
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "a93d9d5324474d7c5db751c080999a7225c0deacf6b791cfaba62a7378d4aabd"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
+    sha256 = "c5b19a9dcc1aa611968f6177677905b4396166e5ed8cf4fe2bf4762180c69823"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-gnu-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2c4f4d162a1ae3715af07e094ce866eafe73c70b"
+git-tree-sha1 = "4de88c4d518c2c02090438d92ebf9c645658f0ec"
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "4f3d5cae42f415a0c8b7485ea37f2d3a820c5e5b8cb6edf5cfb479ae8a03a729"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
+    sha256 = "c6f27c43a30aeb9e1ace745aeead7ac69f69671238dcd3b615d9ecda7186a657"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-gnu-cxx11-mpi+mpitrampoline.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7a78d1a2bc05f341782bdd712aa33b878fc7a39d"
+git-tree-sha1 = "be06d8aacece167db277e58a47ca463c0a5ce108"
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "22a96629eff58c4d58c51fc4e39b4e8961568e17ad88b4ae829de5748598acec"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "e87af814a6f17180f70a8d0359815248415aadad98c89fd6a053b776aef34bc3"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-gnu-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6a5f8d842c631f09a893f803198bb05fd0215eba"
+git-tree-sha1 = "fcb4c612051dd88717264062dcccf117b5cc54d5"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "6b77a4b9418916a4d380f0776401551377ea622eb5d6543299cc85378282a128"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
+    sha256 = "81c8ded3274a69c70c9b6ec91c0d765affe8c124fe68e921e20c1523d32a280b"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-musl-cxx03-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "661f86dbea95ddc79ffd3c6c685acb4f4e871ea8"
+git-tree-sha1 = "676e2e9267b0c3bdf99a9f12fbd07a508760de53"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "f9872a673431c2064a5c4992bd4fba5dc7a5a5bf68bc9ff05b5dc1f370700bd6"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
+    sha256 = "2ecbd965f2b0e275b71bd612d0811625271cc728596b0d1d57414103d700dd08"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-musl-cxx03-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5acabe7da8d33d24f9b35948875c00837bd52f93"
+git-tree-sha1 = "a23ca36a667797c81416c47a60ff88d6279ed1f1"
 libc = "musl"
 mpi = "mpich"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "c8527420385c38e9e7e7b447e655491943404422db16c5f0f1a4048442ffe1f0"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
+    sha256 = "906bc6b4986f841cb9d49d08bde41d1ce44007a50a379c7b49d34941ac836592"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-musl-cxx11-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "878ea2670f8827e857934088137f526c343b0eab"
+git-tree-sha1 = "b16f0564f8d5d15fcd8a2dbc4216d12a64e86dd5"
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
 
     [[COSMA.download]]
-    sha256 = "cb2c77c0f1be6f752d01baf2581223f7fafe79292993afe43460ac0e5818753b"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
+    sha256 = "27c05ca5147d77f70910096152afda0e670777caf91dc95ad932f3c1c8b77e80"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-linux-musl-cxx11-mpi+openmpi.tar.gz"
 [[COSMA]]
 arch = "x86_64"
-git-tree-sha1 = "d25ddca4820ffba3971a9453e06ce70abbb2f93c"
+git-tree-sha1 = "425120aae1ae3c14ea42e3fcfe1a9bfe08079843"
 mpi = "mpich"
 os = "freebsd"
 
     [[COSMA.download]]
-    sha256 = "bdfb5f6760634ae31ce061868a3128dbb39775bcdd1455c80b25c83524a270d6"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+    sha256 = "75c45e50d5c84390f4ecd0136539e2ec17988021f1b81704e98e4d26fe5a8f78"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
 [[COSMA]]
 arch = "x86_64"
-git-tree-sha1 = "f379e0cbba2512c980c601d2219f8fa69cbc87c4"
+git-tree-sha1 = "ff72cedf3168565e553921512fa3e3f63d8cc2a8"
 mpi = "openmpi"
 os = "freebsd"
 
     [[COSMA.download]]
-    sha256 = "942fffc342294a6f5e4f7afc8c60aff111cb8225b0eb793195951b5892a9c02d"
-    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.1+0/COSMA.v2.5.1.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+    sha256 = "a71721e504537de0f79cb58bc5a1ae4c1d380a02d776a7f42e28743bd39cf3f1"
+    url = "https://github.com/JuliaBinaryWrappers/COSMA_jll.jl/releases/download/COSMA-v2.5.2+0/COSMA.v2.5.2.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
